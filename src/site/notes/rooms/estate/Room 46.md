@@ -11,7 +11,7 @@ who made this trip? mary, fleeing, or herbert sending letters..?
 this doesn't quite make sense, as only 8 letters were stolen... right?
 ![](https://i.imgur.com/iU4oQxk.jpeg)
 
-safe contains [[will\|will]] and
+safe contains [[wills\|wills]] and
 ![](https://i.imgur.com/M1DdW2v.png)
 ![](https://i.imgur.com/vkhBHc1.png)
 

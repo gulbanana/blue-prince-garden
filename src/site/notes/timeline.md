@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/timeline/"}
 ---
 
-1912: lord arthur clementine sells mount holly to [[dramatis personae/Auravei\|Auravei]]
+1912: lord arthur clementine sells mount holly to [[dramatis personae/Auravei of Trinsdale\|Auravei of Trinsdale]]
 1913: mount holly draft completed 
 1915: orindian ruins excavation
 1951: simon and clara marry

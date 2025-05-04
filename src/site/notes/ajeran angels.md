@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ajeran-angels/"}
 ---
 
-[[will\|will]] order ("natural" order according to anne): Orinda, Lydia, Rynna, Joya, Dauja, Veia, Mila and Draxus
+[[wills\|wills]] order ("natural" order according to anne): Orinda, Lydia, Rynna, Joya, Dauja, Veia, Mila and Draxus
 
 | Image                                    | Name        | Paragon of |
 | ---------------------------------------- | ----------- | ---------- |
