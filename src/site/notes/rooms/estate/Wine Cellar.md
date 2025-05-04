@@ -25,4 +25,4 @@ sum of digits (per blue note): 11
 1000 200 11 2
 +1000 /200 x11 -2 = 53
 ```
-sum 8?
+core 53, sum 8?

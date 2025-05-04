@@ -25,12 +25,11 @@ maybe not - he could be on the throne
 ## 6x3 words
 could be related to blackbridge's "castle/court/cloak". vertical writing:
 
-| smashed wall                         | from [[cutscenes/grotto\|grotto]]                      | on a passport                        | locker room                          | clock tower poem           | draft novel                          | kennel                               |
-| ------------------------------------ | ------------------------------------ | ------------------------------------ | ------------------------------------ | -------------------------- | ------------------------------------ | ------------------------------------ |
-| ![](https://i.imgur.com/pWedC5k.png) | ![](https://i.imgur.com/Gi8mxZl.png) | ![](https://i.imgur.com/grmsNuN.png) | ![](https://i.imgur.com/uSvpx0g.png) | S<br>A<br>C<br>R<br>E<br>D | ![](https://i.imgur.com/xgp5tFs.png) | ![](https://i.imgur.com/flZC23c.png) |
-|                                      |                                      |                                      |                                      |                            |                                      |                                      |
+| smashed wall                         | from [[cutscenes/grotto\|grotto]]                      | on a passport                        | locker room                          | clock tower poem           | draft novel                          | kennel                               | cloister                             |
+| ------------------------------------ | ------------------------------------ | ------------------------------------ | ------------------------------------ | -------------------------- | ------------------------------------ | ------------------------------------ | ------------------------------------ |
+| ![](https://i.imgur.com/pWedC5k.png) | ![](https://i.imgur.com/Gi8mxZl.png) | ![](https://i.imgur.com/grmsNuN.png) | ![](https://i.imgur.com/uSvpx0g.png) | S<br>A<br>C<br>R<br>E<br>D | ![](https://i.imgur.com/xgp5tFs.png) | ![](https://i.imgur.com/flZC23c.png) | ![](https://i.imgur.com/BGBobrt.png) |
 
-| C     | I     |     |
+| C     | I     | X   |
 | ----- | ----- | --- |
 | **A** | D     |     |
 | **S** | **I** | X   |
